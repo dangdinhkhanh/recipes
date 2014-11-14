@@ -13,9 +13,6 @@ Directions:
  2. Add the tomato sauce, chili powder, oregano, salt, and cayenne.
  3. Stir,uuuu vvvv.
  4. Mix the corn flour and 1/2 cup water in a small bowl.  Add to chili.
-<<<<<<< HEAD
- 5. xxxyyyzzz
-=======
  5. Add the beans and simmer for 10 more minutes.
  6. abcdefghijk
->>>>>>> origin/master
+
